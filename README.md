@@ -1,4 +1,4 @@
-# ReactJS Terminal Emulator
+# NextJS Terminal Emulator
 
 This is a (albeit WIP) configurable Terminal emulator for React (and by extension NextJS) intended for those wanting to use TypeScript with the package.
 
